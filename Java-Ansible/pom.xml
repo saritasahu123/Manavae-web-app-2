@@ -38,13 +38,13 @@
 	<distributionManagement>
     <repository>
         <id>central</id>
-        <name>a0uh9e9l0gqsh-artifactory-primary-0-releases</name>
-        <url>https://abishek.jfrog.io/artifactory/abi_new</url>
+        <name>a0rl480uxy4fp-artifactory-primary-0-releases</name>
+        <url>https://jfrogreposdemo.jfrog.io/artifactory/Jenkinsdemo</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>a0uh9e9l0gqsh-artifactory-primary-0-snapshots</name>
-        <url>https://abishek.jfrog.io/artifactory/abi_new</url>
+        <name>a0rl480uxy4fp-artifactory-primary-0-snapshots</name>
+        <url>https://jfrogreposdemo.jfrog.io/artifactory/Jenkinsdemo</url>
     </snapshotRepository>
 </distributionManagement>
 
