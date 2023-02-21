@@ -41,11 +41,7 @@
         <name>a0rl480uxy4fp-artifactory-primary-0-releases</name>
         <url>https://jfrogreposdemo.jfrog.io/artifactory/jenkinstojfrog-libs-release-local</url>
     </repository>
-    <snapshotRepository>
-        <id>snapshots</id>        
-        <name>a0rl480uxy4fp-artifactory-primary-0-snapshots</name>        
-        <url>https://jfrogreposdemo.jfrog.io/artifactory/jenkinstojfrog-libs-snapshot-local</url>
-    </snapshotRepository>
+
 </distributionManagement>
 
 	<build>
